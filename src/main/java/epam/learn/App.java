@@ -16,7 +16,7 @@ public class App
 //        name=scanner.next();
 //        System.out.println( "Hello "+name );
 
-       
+
         //task1-3
 
 //        Random random = new Random();
